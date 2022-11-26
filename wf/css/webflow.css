@@ -1827,7 +1827,3 @@ textarea.w-select {
 .wf-layout-layout {
   display: grid !important;
 }
-
-.w-webflow-badge-none {
-  display: none !important;
-}
